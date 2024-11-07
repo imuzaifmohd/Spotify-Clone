@@ -1,0 +1,103 @@
+Conversation with smallcase
+Started on March 22, 2024 at 10:39 AM Asia/Kolkata time IST (GMT+0530)
+
+--- March 22, 2024 ---
+
+10:39 AM | Mohd Uzaif: I am facing an issue
+
+10:39 AM | Operator: Please give us a few seconds while we try to figure out what went wrong
+​ 
+ [GIF]
+
+10:39 AM | Mohd Uzaif: Issues with recent orders
+
+10:39 AM | Operator: Hold on a second while we fetch the smallcase order for which you're facing issues
+
+10:39 AM | Operator: Everything looks set. We did not find any issues in your invested smallcases or you may have exited from all of them.
+
+10:39 AM | Operator: Do you still need any more help?
+
+10:39 AM | Mohd Uzaif: Connect to a smallcase expert 🧑‍💻
+
+10:39 AM | Operator: Sorry if that wasn't what you were looking for 🙁 
+ Please share any additional details of the issue that you're facing. An agent will be with you shortly. 
+ [GIF]
+
+10:41 AM | Soniya from smallcase: Hello there, 
+ How may I help you?
+
+10:42 AM | Mohd Uzaif: Hi yesterday I placed a sell order of my green energy smallcase of 373000 
+ And immediately bought 284813 of green energy again 
+ And bought remaining of 373000 today
+
+10:43 AM | Mohd Uzaif: But in my upstox account my holdings are showing returns from various months
+
+10:43 AM | Mohd Uzaif: In other words my holdings are not being showed
+
+10:45 AM | Mohd Uzaif: Why is that happening 
+Or does it take some time to remove the stocks from my upstox account holdings?
+
+10:48 AM | Mohd Uzaif: As you can see there should not be 30% profit as I bought some yesterday and remaining today
+
+10:50 AM | Mohd Uzaif: [Image "IMG_8782.png?expires=1711635446&signature=c938a1b5a8d56e45da88d59d8537708235eddb46ef906b7a51903babf98108fb"]
+
+11:00 AM | Soniya from smallcase: Hello there, 
+ We can see that all your orders are executed on smallcase platform. Could you please check your positions for your orders placed today and your tradebook for the orders place yesterday.
+
+11:17 AM | Mohd Uzaif: yes in the trades it is showing but why then the holdings are not updated till now even after i sold all these stocks yesterday
+
+11:29 AM | Soniya from smallcase: Could you please check with your broker support once? They have all the tools to check the details. It will be easy for you to understand.
+
+--- March 25, 2024 ---
+
+09:33 PM | Soniya from smallcase: I'm closing this chat as there is no response from your end. Please feel free to re-open the chat. Thank you for contacting smallcase. Have a good day.
+
+09:34 PM | Operator: Help Soniya understand how they’re doing:
+
+09:34 PM | Operator: Rate your conversation
+
+--- March 28, 2024 ---
+
+06:09 PM | Mohd Uzaif: Hi please reopen my chat as you told I tried emailing Upstox customer support as well but it’s been a week that they haven’t provided any solution.
+
+06:10 PM | Mohd Uzaif: What should I do? I don’t know what’s going on. 
+ Clearly there’s a mismatch in what the holdings that are being shown in Upstox and what the trades pdf is showing..
+
+06:11 PM | Mohd Uzaif: Should I email Sebi or cdsl about all this?
+
+06:11 PM | Balaakrishnan from smallcase: Hi there 
+ 
+ Apologies for the inconvenience, please share your upstox holding and tradebook details.
+
+06:11 PM | Balaakrishnan from smallcase: https://keystone.upstox.com//tradewise-report
+
+06:12 PM | Balaakrishnan from smallcase: Attached is your overall holdings in your smallcase. Please check if you see any discrepany between smallcase and upstox holdings. 
+ [Attachment: "topLevelHoldings_28_3_2024.csv"]
+
+06:13 PM | Mohd Uzaif: Okay
+
+06:14 PM | Balaakrishnan from smallcase: Thank you. Let us know if you see any mismatch in holding values.
+
+06:58 PM | Mohd Uzaif: There clearly is a mismatch in buying and selling price that is shown in upstox holdings in the transactions that were done through smallcase on 21 March and 22 March 
+ 
+Even though upstox tradebook shows the exact same data as smallcase but upstox holdings are having a mismatch even in app version as well as web version.
+
+06:59 PM | Mohd Uzaif: do you want me to share the trade pdf as well as holdings screenshot to prove?
+
+07:00 PM | Balaakrishnan from smallcase: Yes, please share upstox tradebook and holding details here. Please share downloaded files.
+
+07:00 PM | Mohd Uzaif: [Attachment: "trade_2324_5MB94T.pdf"]
+
+07:01 PM | Mohd Uzaif: so these are the transactions of 21 March and 22 March
+
+07:03 PM | Mohd Uzaif: [Image "upstoxsssss.png?expires=1711635446&signature=37bfe8d1099554b95f1476bda310f85488f52e533f8194b810765a5a3f1a7fe0"]
+
+07:06 PM | Mohd Uzaif: here take example of sanghvi movers stock, here in holdings its average buy price is 571. 
+ But in reality currently it should be 1174 according to smallcase data as well as tradebook data. 
+ some other stocks have this issue as well. 
+ You can verify.
+
+07:17 PM | Mohd Uzaif: if you want all holdings screenshot i will send you do tell me!
+
+---
+Exported from smallcase on March 28, 2024 at 07:17 PM Asia/Kolkata time IST (GMT+0530)
