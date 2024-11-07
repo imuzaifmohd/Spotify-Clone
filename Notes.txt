@@ -1,0 +1,18 @@
+1) set overflow hidden for * as we dont require scroll bar for everything
+
+2) used flex:1   ->    so that .main-content div takes all the remaining width after sidebar
+
+3) border radius, padding, margin set to 1rem   -> so that when screen size chota hoga to border radius bhi choti hogi
+
+4) setted line heigt of a class of of divs in rem
+
+5) font size, icons font size also set in terms of rem
+
+6) setted height of one of main divs in pixel but height of child in rem 
+
+7) i already got to know that to avoid overflow of content from div we use
+							overflow:hidden;    and      border box box sizing
+				But surpisingly padding is also helpful in this, while i was stuck and tried upper two things 
+				but what solved my problem was by just giving padding.
+
+8) *{box-sizing: border-box;}: 	Use it every time for all so that when giving padding doesn’t increase the overall box size.
